@@ -20,6 +20,7 @@ The goal of this automation task is to validate the login flow of https://www.sa
 - Ensures the user remains on the login page
 
 ## Project Structure
+```
 cypress/
  ├─ e2e/
  │   └─ login.cy.js
@@ -30,6 +31,7 @@ package.json
 package-lock.json
 .gitignore
 README.md
+```
 
 ## How to Install & Run the Tests
 1. Install dependencies:
