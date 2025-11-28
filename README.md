@@ -35,8 +35,10 @@ README.md
 
 ## How to Install & Run the Tests
 1. Clonar repositorio
+```bash
 git clone https://github.com/Roadgar/saucedemo-ui-automation
 cd saucedemo-ui-automation
+```
 2. Install dependencies:
 npm install
 3. Open Cypress:
