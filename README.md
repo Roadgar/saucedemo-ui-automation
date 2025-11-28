@@ -34,12 +34,14 @@ README.md
 ```
 
 ## How to Install & Run the Tests
-1. Install dependencies:
+1. Clonar repositorio
+git clone https://github.com/Roadgar/saucedemo-ui-automation
+cd saucedemo-ui-automation
+2. Install dependencies:
 npm install
-2. Open Cypress:
+3. Open Cypress:
 npx cypress open
-
-3. Select:
+4. Select:
 **E2E Testing → choose a browser → run login.cy.js**
 
 ## Tech Stack
